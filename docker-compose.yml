@@ -23,6 +23,15 @@ services:
     volumes:
       - phpmyadmin-session:/sessions
 
+  php:
+    build: ./.docker/php
+    tty: true
+    depends_on:
+      - mysql
+    volumes:
+      - .:/var/www/html
+    working_dir: /var/www/html
+
 volumes:
   mysql-data:
   phpmyadmin-session:
