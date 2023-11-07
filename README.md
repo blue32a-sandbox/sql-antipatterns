@@ -10,6 +10,7 @@ https://www.oreilly.co.jp/books/9784873115894/
 - [キーレスエントリ（外部キー嫌い）](./antipatterns/04_Keyless-Entry/anti/)
 - [EAV（エンティティ・アトリビュート・バリュー）](./antipatterns/05_EAV/anti/create-eav-table.sql)
 - [ポリモーフィック関連](./antipatterns/06_Polymorphic/anti/)
+- [マルチカラムアトリビュート（複数列属性）](./antipatterns/07_Multi-Column/anti/create-table.sql)
 
 ## ローカル環境
 
