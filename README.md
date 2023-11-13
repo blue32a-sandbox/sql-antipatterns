@@ -13,6 +13,7 @@ https://www.oreilly.co.jp/books/9784873115894/
 - [マルチカラムアトリビュート（複数列属性）](./antipatterns/07_Multi-Column/anti/create-table.sql)
 - [メタデータトリブル（メタデータ大増殖）](./antipatterns/08_Metadata-Tribbles/anti/create-tables.sql)
 - [ラウンディングエラー（丸め誤差）](./antipatterns/09_Rounding-Errors/anti/)
+- [サーティワンフレーバー（３１のフレーバー）](./antipatterns/10_31-Flavors/anti/)
 
 ## ローカル環境
 
