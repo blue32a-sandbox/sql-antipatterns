@@ -14,6 +14,7 @@ https://www.oreilly.co.jp/books/9784873115894/
 - [メタデータトリブル（メタデータ大増殖）](./antipatterns/08_Metadata-Tribbles/anti/create-tables.sql)
 - [ラウンディングエラー（丸め誤差）](./antipatterns/09_Rounding-Errors/anti/)
 - [サーティワンフレーバー（３１のフレーバー）](./antipatterns/10_31-Flavors/anti/)
+- [ファントムファイル（幻のファイル）](./antipatterns/11_Phantom-Files/anti/create-screenshots-path.sql)
 
 ## ローカル環境
 
