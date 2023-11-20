@@ -1,0 +1,3 @@
+-- IS NULL、IS NOT NULLを使ったNULLの検索
+SELECT * FROM Bugs WHERE assigned_to IS NULL;
+SELECT * FROM Bugs WHERE assigned_to IS NOT NULL;
