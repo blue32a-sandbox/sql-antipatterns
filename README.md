@@ -18,6 +18,7 @@ https://www.oreilly.co.jp/books/9784873115894/
 - [インデックスショットガン（闇雲インデックス）](./antipatterns/12_Index-Shotgun/anti/)
 - [フィア・オブ・ジ・アンノウン（恐怖のunknown）](./antipatterns/13_Fear-Unknown/anti/)
 - [アンビギュアスグループ（曖昧なグループ）](./antipatterns/14_Groups/anti/)
+- [ランダムセクション](./antipatterns/15_Random/anti/)
 
 ## ローカル環境
 
