@@ -20,6 +20,7 @@ https://www.oreilly.co.jp/books/9784873115894/
 - [アンビギュアスグループ（曖昧なグループ）](./antipatterns/14_Groups/anti/)
 - [ランダムセクション](./antipatterns/15_Random/anti/)
 - [プアマンズ・サーチエンジン（貧者のサーチエンジン）](./antipatterns/16_Search/anti/)
+- [スパゲッティクエリ](./antipatterns/17_Spaghetti-Query/anti/)
 
 ## ローカル環境
 
