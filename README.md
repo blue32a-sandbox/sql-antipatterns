@@ -22,6 +22,7 @@ https://www.oreilly.co.jp/books/9784873115894/
 - [プアマンズ・サーチエンジン（貧者のサーチエンジン）](./antipatterns/16_Search/anti/)
 - [スパゲッティクエリ](./antipatterns/17_Spaghetti-Query/anti/)
 - [インプリシットカラム（暗黙の列）](./antipatterns/18_Implicit-Columns/anti/)
+- [リーダブルパスワード（読み取り可能パスワード）](./antipatterns/19_Passwords/anti/)
 
 ## ローカル環境
 
