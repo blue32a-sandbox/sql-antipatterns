@@ -23,6 +23,7 @@ https://www.oreilly.co.jp/books/9784873115894/
 - [スパゲッティクエリ](./antipatterns/17_Spaghetti-Query/anti/)
 - [インプリシットカラム（暗黙の列）](./antipatterns/18_Implicit-Columns/anti/)
 - [リーダブルパスワード（読み取り可能パスワード）](./antipatterns/19_Passwords/anti/)
+- [SQLインジェクション](./antipatterns/20_SQL-Injection/anti/)
 
 ## ローカル環境
 
