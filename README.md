@@ -25,6 +25,7 @@ https://www.oreilly.co.jp/books/9784873115894/
 - [リーダブルパスワード（読み取り可能パスワード）](./antipatterns/19_Passwords/anti/)
 - [SQLインジェクション](./antipatterns/20_SQL-Injection/anti/)
 - [シュードキー・ニートフリーク（疑似キー潔癖症）](./antipatterns/21_Neat-Freak/anti/)
+- [シー・ノー・エビル（臭いものに蓋）](./antipatterns/22_See-No-Evil/anti/)
 
 ## ローカル環境
 
