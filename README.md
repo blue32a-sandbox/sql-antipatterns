@@ -24,6 +24,7 @@ https://www.oreilly.co.jp/books/9784873115894/
 - [インプリシットカラム（暗黙の列）](./antipatterns/18_Implicit-Columns/anti/)
 - [リーダブルパスワード（読み取り可能パスワード）](./antipatterns/19_Passwords/anti/)
 - [SQLインジェクション](./antipatterns/20_SQL-Injection/anti/)
+- [シュードキー・ニートフリーク（疑似キー潔癖症）](./antipatterns/21_Neat-Freak/anti/)
 
 ## ローカル環境
 
