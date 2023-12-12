@@ -26,6 +26,7 @@ https://www.oreilly.co.jp/books/9784873115894/
 - [SQLインジェクション](./antipatterns/20_SQL-Injection/anti/)
 - [シュードキー・ニートフリーク（疑似キー潔癖症）](./antipatterns/21_Neat-Freak/anti/)
 - [シー・ノー・エビル（臭いものに蓋）](./antipatterns/22_See-No-Evil/anti/)
+- [ディプロマティック・イミュニティ（外交特権）](./antipatterns/23_Diplomatic_immunity/)
 
 ## ローカル環境
 
