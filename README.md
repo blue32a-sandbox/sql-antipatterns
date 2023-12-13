@@ -27,6 +27,7 @@ https://www.oreilly.co.jp/books/9784873115894/
 - [シュードキー・ニートフリーク（疑似キー潔癖症）](./antipatterns/21_Neat-Freak/anti/)
 - [シー・ノー・エビル（臭いものに蓋）](./antipatterns/22_See-No-Evil/anti/)
 - [ディプロマティック・イミュニティ（外交特権）](./antipatterns/23_Diplomatic_immunity/)
+- [マジックビーンズ（魔法の豆）](./antipatterns/24_Magic-Beans/anti/)
 
 ## ローカル環境
 
